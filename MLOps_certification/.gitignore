@@ -1,0 +1,7 @@
+development/myenv/
+*.ipynb_checkpoints
+.vscode/
+*.yaml
+*.DS_Store
+creds.json
+custom_model_MLOps/

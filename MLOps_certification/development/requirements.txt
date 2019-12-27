@@ -1,0 +1,8 @@
+datarobot==2.18.0
+#datarobot-dse==0.6.1
+ipython-secrets==1.1.1
+jupyterlab==1.1.4
+numpy==1.17.2
+#pandas==0.25.1
+requests==2.22.0
+pprint

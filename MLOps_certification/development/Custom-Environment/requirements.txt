@@ -1,0 +1,7 @@
+numpy>=1.15.4,<2
+h5py>=2.7.0,<3
+scipy>=1.1,<2
+pandas>=0.20.2,<1
+scikit-learn>=0.19,<1
+requests
+requests_toolbelt
